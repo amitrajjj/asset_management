@@ -1,0 +1,29 @@
+========================================
+        AssetFlow Pro - Quick Start Guide
+========================================
+
+AUTOMATIC START (Recommended):
+1. Double-click: complete-fix.bat
+2. Wait for servers to start
+3. Browser opens automatically
+
+MANUAL START:
+1. Start XAMPP MySQL service
+2. Run: start-servers.bat
+3. Keep both CMD windows open
+
+TROUBLESHOOTING:
+❌ "Unable to connect" → Start MySQL first
+❌ "Port in use" → Run complete-fix.bat
+❌ "Backend error" → Check MySQL is running
+
+LOGIN CREDENTIALS:
+Admin: admin@example.com / adminpass
+User:  amit@example.com / userpass
+
+DIRECT LINKS:
+Main: http://localhost:5174/index.html
+Admin: http://localhost:5174/admin-dashboard.html
+User: http://localhost:5174/user-dashboard.html
+
+========================================
